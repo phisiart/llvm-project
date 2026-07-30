@@ -574,6 +574,7 @@ declare_mlir_python_extension(MLIRPythonExtension.Core
     MLIRCAPIDebug
     MLIRCAPIIR
     MLIRCAPIInterfaces
+    MLIRCAPITransforms
 
     # Dialects
     MLIRCAPIFunc
